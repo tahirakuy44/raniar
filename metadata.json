@@ -1,0 +1,5 @@
+{
+  "name": "AutoPrompt Studio",
+  "description": "An AI-powered tool that analyzes product images and generates professional 3x3 grid photography prompts for generative AI models.",
+  "requestFramePermissions": []
+}
